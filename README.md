@@ -19,4 +19,4 @@
 ## Made by:
 Nima Memarzadeh 
 * [Nima's Github](https://github.com/nmemarcoding)) 
-* :e-mail:[Nima's Email] nmemarcoding@gmail.com
+* Email nmemarcoding@gmail.com
