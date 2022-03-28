@@ -18,5 +18,5 @@
 
 ## Made by:
 Nima Memarzadeh 
-* [Nima's Github](https://github.com/nmemarcoding)) 
+* [Nima's Github](https://github.com/nmemarcoding)
 * Email nmemarcoding@gmail.com
